@@ -70,7 +70,7 @@ A full-stack restaurant table reservation system built as a final project for th
 # Project Structure
 
 ```txt
-reservo/
+SBD14/
 ├── reservo-frontend/
 │   └── src/
 │       ├── app/
